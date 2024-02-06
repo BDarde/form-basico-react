@@ -1,0 +1,49 @@
+.container{
+    background-color: beige;
+    width: 30dvw;
+    height: 60dvh;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+
+}
+h2{
+    margin-top: 0px;
+}
+.lbl{
+    margin-bottom: 10px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    width: 255px;
+}
+
+
+.lbl label{
+ 
+    width: 80px;
+}
+
+input{
+    border: 0.5px solid gray;
+    border-radius: 5px;
+
+}
+.lbl2{
+    margin-bottom: 15px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    width: 255px;
+}
+
+.lbl2 label{
+    width: 80px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
