@@ -1,4 +1,5 @@
 {
+  "react": "^17.0.2",
   "name": "event",
   "version": "0.1.0",
   "private": true,
